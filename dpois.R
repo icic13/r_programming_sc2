@@ -1,0 +1,6 @@
+dpois(10,2)
+ppois(10,3)
+qpois(.5,2)
+rpois(10,2)
+ppois(16,12)
+ppois(16,12,F)
